@@ -1,0 +1,8 @@
+# ignore build output
+node_modules/
+dist/
+pkg/
+target/
+*.log
+.vscode/
+.env
